@@ -1,5 +1,5 @@
-Meu primeiro sistema no GIT
+My first sistem in GIT
 
 change what want
 
-Chenge made in Master
+Change made in Master
